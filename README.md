@@ -1,7 +1,6 @@
 # Snippets Archive #
 
-
-## Directory ## 
+## Directory ##
 
 1. [bash](/bash/README.md)
 1. [javascript](/javascript/README.md)
