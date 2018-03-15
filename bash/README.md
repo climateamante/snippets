@@ -1,3 +1,3 @@
-# Bash #
+# BASH #
 
-1. [Check OS Versions And Unix System](/bash/bash.function.check.os.system.sh)
+1. [Check OS Versions clear Unix System](/bash/bash.function.check.os.system.sh)
