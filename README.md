@@ -1,8 +1,7 @@
-# Snippets Archive #
+# Repository For Snippets & OneLiner In Variety Of Languages #
 
 ## Directory ##
 
 1. [bash](/bash/README.md)
 1. [javascript](/javascript/README.md)
-
-## 1499991869 ##
+1. [git](/git/README.md)
