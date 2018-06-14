@@ -1,4 +1,5 @@
-# Repository For Snippets & OneLiner In Variety Of Languages #
+# Repository For Snippets & OneLiners In A Variety Of Languages #
+ > Kind of like .dotfiles from years of personal edgecases when working on projects / daily use
 
 ## Directory ##
 
