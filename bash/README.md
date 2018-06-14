@@ -1,5 +1,9 @@
 # BASH #
 
+## unix.os ##
+
+1. [Check OS Versions clear Unix System](/bash/bash.unix.os.function.check.os.system.sh)
+1. [Recursively Move All Files from Subdirectories Into Single Folder](/bash/bash.unix.os.function.move.all.files.recursivly.to.single.folder.md)
 
 ## mac.os ##
 
@@ -7,6 +11,3 @@
 
 1. [Attach Drive Image](/bash/bash.mac.os.attach.drive.image.sh)
 
-## unix.os ##
-
-1. [Check OS Versions clear Unix System](/bash/bash.unix.os.function.check.os.system.sh)
