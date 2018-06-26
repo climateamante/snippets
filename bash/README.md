@@ -4,10 +4,10 @@
 
 1. [Check OS Versions clear Unix System](/bash/bash.unix.os.function.check.os.system.sh)
 1. [Recursively Move All Files from Subdirectories Into Single Folder](/bash/bash.unix.os.function.move.all.files.recursivly.to.single.folder.md)
+1. [Recursively GPG Encrypt All Files in the Current Folder](/bash/bash.unix.os.recursivly.encrypt.all.files.with.gpg.md)
 
 ## mac.os ##
 
 1. [Find All PDF Files Including Subfolders Of Current Directory And Combine Into A Single PDF](/bash/bash.mac.os.find.pdf.files.combine.into.single.pdf.sh)
 
 1. [Attach Drive Image](/bash/bash.mac.os.attach.drive.image.sh)
-
