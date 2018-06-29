@@ -6,6 +6,8 @@
 1. [Recursively Move All Files from Subdirectories Into Single Folder](/bash/bash.unix.os.function.move.all.files.recursivly.to.single.folder.md)
 1. [Recursively GPG Encrypt All Files in the Current Folder](/bash/bash.unix.os.recursivly.encrypt.all.files.with.gpg.md)
 1. [Recursively Pipe File Into TAR, Then Piped Into GPG Encrypt. In Sequential Order In The Current Folder](/bash/bash.unix.os.recursively.pipe.tar.into.gpg.encrypt.sequential.order.md)
+1. [For Loop | Iterate On Create CSV Structured Data](/bash/bash.unix.os.csv.for.loop.structured.data.md)
+
 
 
 ## mac.os ##
